@@ -7,5 +7,5 @@
 hostname=persistent-policy.com
 
 [Script]
-network-changed script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.js
-http-request https?:\/\/persistent-policy\.com script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/PersistentPolicy/persistent-policy.js
+network-changed script-path=https://raw.githubusercontent.com/benqsr/QuS/refs/heads/master/Tools/PersistentPolicy/persistent-policy.js
+http-request https?:\/\/persistent-policy\.com script-path=https://raw.githubusercontent.com/benqsr/QuS/master/Tools/PersistentPolicy/persistent-policy.js
